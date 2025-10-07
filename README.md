@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/Banner.png" alt="QuantForgeX Banner" width="100%" />
+</p>
+
 # ⚡ QuantForgeX  
 ### _Research. Intelligence. Empowerment in the Trading Era._
 
