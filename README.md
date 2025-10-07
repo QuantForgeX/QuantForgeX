@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Banner.png" alt="QuantForgeX Banner" width="100%" />
+  <img src="asset/Banner.png" alt="QuantForgeX Banner" width="100%" />
 </p>
 
 # ⚡ QuantForgeX  
