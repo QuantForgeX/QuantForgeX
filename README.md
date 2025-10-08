@@ -51,7 +51,7 @@ XARQO is designed to accelerate the transition from **idea → logic → deploym
 ## 🌐 Try the Frontend
 
 Explore the **frontend preview** of XARQO:  
-👉 [**Launch App (Frontend Only)**](#) <!-- Replace # with actual deployed frontend link -->
+👉 [**Launch App (Frontend Only)**](https://quantforgex.in) <!-- Replace # with actual deployed frontend link -->
 
 *(Note: This is a frontend-only demo. Full backend integration coming soon.)*
 
@@ -97,7 +97,7 @@ We’re always looking for **builders, researchers, and innovators** who share o
 - Share ideas, datasets, and novel quantitative approaches.
 
 ### 💸 Sponsors & Partners
-- Support our mission via [**Buy Me a Coffee**](https://buymeacoffee.com/quantforgex) ☕  
+- Support our mission via [**Buy Me a Coffee**](https://buymeacoffee.com/arindhaula3) ☕  
 - Contributions help fund research, infrastructure, and educational initiatives.
 
 > Check out our [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
@@ -108,7 +108,7 @@ We’re always looking for **builders, researchers, and innovators** who share o
 
 If you believe in **open, intelligent, and accessible trading technology**, you can support us here:
 
-[![Buy Me A Coffee](https://img.shields.io/badge/☕-Buy%20Me%20A%20Coffee-orange)](https://buymeacoffee.com/quantforgex)
+[![Buy Me A Coffee](https://img.shields.io/badge/☕-Buy%20Me%20A%20Coffee-orange)](https://buymeacoffee.com/arindhaula3)
 
 Or simply:
 - ⭐ Star our repositories  
@@ -122,7 +122,7 @@ Or simply:
 - 🧑‍💻 [GitHub Discussions](https://github.com/QuantForgeX/discussions)  
 - 💬 [Discord Community](https://discord.gg/qp38J3kuFh)  
 - 📰 [LinkedIn](https://linkedin.com/company/quantforgex)  
-- 🌍 [Website](https://quantforgex.com)
+- 🌍 [Website](https://quantforgex.in)
 
 ---
 
